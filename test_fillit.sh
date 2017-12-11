@@ -1,0 +1,11 @@
+./fillit valid_sample.fillit
+./fillit invalid_sample_wrong_char.fillit
+./fillit invalid_sample_wrong_length.fillit
+./fillit invalid_sample_wrong_format_a.fillit
+./fillit invalid_sample_wrong_format_b.fillit
+./fillit invalid_sample_wrong_format_c.fillit
+./fillit invalid_sample_wrong_tetriminos_a.fillit
+./fillit invalid_sample_wrong_tetriminos_b.fillit
+./fillit invalid_sample_wrong_tetriminos_c.fillit
+./fillit invalid_sample_wrong_tetriminos_d.fillit
+./fillit invalid_sample_wrong_tetriminos_e.fillit
