@@ -6,7 +6,7 @@
 /*   By: hbruvry <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/09 15:02:56 by hbruvry           #+#    #+#             */
-/*   Updated: 2017/12/09 15:09:22 by hbruvry          ###   ########.fr       */
+/*   Updated: 2017/12/12 14:29:41 by hbruvry          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,6 @@
 # include <sys/stat.h>
 # include <fcntl.h>
 
-# define BUF_SIZE 4096
+# define BUF_SIZE 21
 
 #endif
